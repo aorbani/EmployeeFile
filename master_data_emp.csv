@@ -1,0 +1,101 @@
+﻿Emp Code,Name,Age,Department,Salary,Origin,Passport No,Passport Expiry Date
+2001,Khalid,54,Management,1000,Kuwait,88445,2023-02-02
+2002,Jouly,61,Finance,1200,Kuwait,54412,2023-05-03
+2003,Ali,54,Management,780,Kuwait,65556,2025-10-13
+2004,Ahmed,35,Management,750,Kuwait,12445,2023-02-02
+2005,Moustafa,26,Management,650,Jordan,21346,2023-05-03
+2006,Omar,35,Operation,650,Palestine,88445,2025-10-13
+2007,Somaya,36,Operation,700,Oman,54412,2023-02-02
+2008,Rana,34,Finance,800,Kuwait,65556,2023-05-03
+2009,Kholoud,57,Management,700,Kuwait,12445,2025-10-13
+2010,Lara,61,Finance,750,Kuwait,21346,2023-02-02
+2011,Hafez,84,Management,1000,Jordan,88445,2023-05-03
+2012,Mousa,51,Management,1200,Palestine,54412,2025-10-13
+2013,Alaa,41,Management,780,Oman,65556,2023-02-02
+2014,Khalid,44,Operation,750,Saudi Arabia,12445,2023-05-03
+2015,Jouly,36,Operation,650,Kuwait,21346,2025-10-13
+2016,Ali,42,Finance,650,Kuwait,88445,2023-02-02
+2017,Ahmed,35,Management,700,Jordan,54412,2023-05-03
+2018,Moustafa,64,Finance,800,Palestine,65556,2025-10-13
+2019,Omar,54,Management,700,Oman,12445,2023-02-02
+2020,Somaya,57,Management,750,Kuwait,21346,2023-05-03
+2021,Rana,54,Management,1000,Kuwait,88445,2025-10-13
+2022,Kholoud,61,Operation,1200,Kuwait,54412,2023-02-02
+2023,Lara,54,Operation,780,Jordan,65556,2023-05-03
+2024,Hafez,35,Finance,750,Palestine,12445,2025-10-13
+2025,Mousa,26,Management,650,Oman,21346,2023-02-02
+2026,Alaa,35,Finance,650,Saudi Arabia,88445,2023-05-03
+2027,Khalid,36,Management,700,Kuwait,54412,2025-10-13
+2028,Jouly,34,Management,800,Kuwait,65556,2023-02-02
+2029,Ali,57,Management,700,Jordan,12445,2023-05-03
+2030,Ahmed,61,Operation,750,Palestine,21346,2025-10-13
+2031,Moustafa,84,Operation,1000,Oman,88445,2023-02-02
+2032,Omar,51,Finance,1200,Kuwait,54412,2023-05-03
+2033,Somaya,41,Management,780,Kuwait,65556,2025-10-13
+2034,Rana,44,Finance,750,Kuwait,12445,2023-02-02
+2035,Kholoud,36,Management,650,Jordan,21346,2023-05-03
+2036,Lara,42,Management,650,Palestine,88445,2025-10-13
+2037,Hafez,35,Management,700,Oman,54412,2023-02-02
+2038,Mousa,64,Operation,800,Saudi Arabia,65556,2023-05-03
+2039,Alaa,54,Operation,700,Kuwait,12445,2025-10-13
+2040,Khalid,57,Finance,750,Kuwait,21346,2023-02-02
+2041,Jouly,54,Management,1000,Jordan,88445,2023-05-03
+2042,Ali,61,Finance,1200,Palestine,54412,2025-10-13
+2043,Ahmed,54,Management,780,Oman,65556,2023-02-02
+2044,Moustafa,35,Management,750,Kuwait,12445,2023-05-03
+2045,Omar,26,Management,650,Kuwait,21346,2025-10-13
+2046,Somaya,35,Operation,650,Kuwait,88445,2023-02-02
+2047,Rana,36,Operation,700,Jordan,54412,2023-05-03
+2048,Kholoud,34,Finance,800,Palestine,65556,2025-10-13
+2049,Lara,57,Management,700,Oman,12445,2023-02-02
+2050,Hafez,61,Finance,750,Saudi Arabia,21346,2023-05-03
+2051,Mousa,84,Management,1000,Kuwait,88445,2025-10-13
+2052,Alaa,51,Management,1200,Kuwait,54412,2023-02-02
+2053,Khalid,41,Management,780,Jordan,65556,2023-05-03
+2054,Jouly,44,Operation,750,Palestine,12445,2025-10-13
+2055,Ali,36,Operation,650,Oman,21346,2023-02-02
+2056,Ahmed,42,Finance,650,Kuwait,88445,2023-05-03
+2057,Moustafa,35,Management,700,Kuwait,54412,2025-10-13
+2058,Omar,64,Finance,800,Kuwait,65556,2023-02-02
+2059,Somaya,54,Management,700,Jordan,12445,2023-05-03
+2060,Rana,57,Management,750,Palestine,21346,2025-10-13
+2061,Kholoud,54,Management,1000,Oman,88445,2023-02-02
+2062,Lara,61,Operation,1200,Saudi Arabia,54412,2023-05-03
+2063,Hafez,54,Operation,780,Kuwait,65556,2025-10-13
+2064,Mousa,35,Finance,750,Kuwait,12445,2023-02-02
+2065,Alaa,26,Management,650,Jordan,21346,2023-05-03
+2066,Khalid,35,Finance,650,Palestine,88445,2025-10-13
+2067,Jouly,36,Management,700,Oman,54412,2023-02-02
+2068,Ali,34,Management,800,Kuwait,65556,2023-05-03
+2069,Ahmed,57,Management,700,Kuwait,12445,2025-10-13
+2070,Moustafa,61,Operation,750,Kuwait,21346,2023-02-02
+2071,Omar,84,Operation,1000,Jordan,88445,2023-05-03
+2072,Somaya,51,Finance,1200,Palestine,54412,2025-10-13
+2073,Rana,41,Management,780,Oman,65556,2023-02-02
+2074,Kholoud,44,Finance,750,Saudi Arabia,12445,2023-05-03
+2075,Lara,36,Management,650,Kuwait,21346,2025-10-13
+2076,Hafez,42,Management,650,Kuwait,88445,2023-02-02
+2077,Mousa,35,Management,700,Jordan,54412,2023-05-03
+2078,Alaa,64,Operation,800,Palestine,65556,2025-10-13
+2079,Khalid,54,Operation,700,Oman,12445,2023-02-02
+2080,Jouly,57,Finance,750,Kuwait,21346,2023-05-03
+2081,Ali,54,Management,1000,Kuwait,88445,2025-10-13
+2082,Ahmed,61,Finance,1200,Kuwait,54412,2023-02-02
+2083,Moustafa,54,Management,780,Jordan,65556,2023-05-03
+2084,Omar,35,Management,750,Palestine,12445,2025-10-13
+2085,Somaya,26,Management,650,Oman,21346,2023-02-02
+2086,Rana,35,Operation,650,Saudi Arabia,88445,2023-05-03
+2087,Kholoud,36,Operation,700,Kuwait,54412,2025-10-13
+2088,Lara,34,Finance,800,Kuwait,65556,2023-02-02
+2089,Hafez,57,Management,700,Jordan,12445,2023-05-03
+2090,Mousa,61,Finance,750,Palestine,21346,2025-10-13
+2091,Alaa,84,Management,1000,Oman,88445,2023-02-02
+2092,Khalid,51,Management,1200,Kuwait,54412,2023-05-03
+2093,Jouly,41,Management,780,Kuwait,65556,2025-10-13
+2094,Ali,44,Operation,750,Kuwait,12445,2023-02-02
+2095,Ahmed,36,Operation,650,Jordan,21346,2023-05-03
+2096,Moustafa,42,Finance,650,Palestine,88445,2025-10-13
+2097,Omar,35,Management,700,Oman,54412,2023-02-02
+2098,Somaya,64,Operation,800,Saudi Arabia,65556,2023-05-03
+2099,Rana,54,Operation,700,Kuwait,12445,2025-10-13
+2100,Kholoud,57,Finance,750,Kuwait,21346,2023-02-02
